@@ -1,3 +1,4 @@
 const a=12;
 const b=15;
-console.log(a+b);
+const c=54;
+console.log(a+b+c);
